@@ -1,0 +1,12 @@
+{
+    "name": "Remote-python-line",
+    "dockerComposeFile": [
+        "../docker-compose.yml"
+    ],
+    "service": "python3_line",
+    "workspaceFolder": "/opt/working",
+    "remoteUser": "user",
+    "extensions": [
+        "ms-python.python"
+    ] 
+}

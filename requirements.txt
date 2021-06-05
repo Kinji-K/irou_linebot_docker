@@ -1,0 +1,3 @@
+Requests
+Beautifulsoup4
+line-bot-sdk
